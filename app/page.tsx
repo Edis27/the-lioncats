@@ -69,8 +69,8 @@ export default function LandingPage() {
   };
 
   const getRarityColor = (num: number) => {
-    if (num >= 304) return "text-yellow-400";
-    if (num >= 280) return "text-red-400";
+    if (num >= 290) return "text-yellow-400";
+    if (num >= 250) return "text-red-400";
     if (num >= 200) return "text-purple-400";
     if (num >= 150) return "text-blue-600";
     if (num >= 100) return "text-blue-400";
