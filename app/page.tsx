@@ -94,7 +94,7 @@ export default function LandingPage() {
       {/* Social Links - Top Right - Mobile Responsive */}
       <div className="absolute top-4 right-4 z-20 flex gap-2 md:gap-4">
         <a
-          href="https://x.com/FedOfFrogs"
+          href="https://x.com/TheLioncats_"
           target="_blank"
           rel="noopener noreferrer"
           className="w-10 h-10 md:w-14 md:h-14 rounded-full overflow-hidden border-2 border-green-500 hover:border-green-400 transition-all hover:scale-110"
@@ -107,7 +107,7 @@ export default function LandingPage() {
           />
         </a>
         <a
-          href="https://pump.fun/coin/9oNEYWScgABtHhTCEHJNnMbsVNMCdGew6bUhSiMZpump"
+          href="https://pump.fun"
           target="_blank"
           rel="noopener noreferrer"
           className="w-10 h-10 md:w-14 md:h-14 rounded-full overflow-hidden border-2 border-green-500 hover:border-green-400 transition-all hover:scale-110"
